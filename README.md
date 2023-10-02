@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @michelle2930
+- 👀 I’m interested in coding, tiktoks, cyber-security & tech.
+- 🌱 I’m currently learning SQL, Python, ReactJS & NodeJS
+- 💞️ I’m looking to collaborate on AML strategies & cyber-security implementations.
+- 📫 How to reach me: LinkedIn
